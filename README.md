@@ -21,8 +21,14 @@
 - [Bidirectional Learning for Domain Adaptation of Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Bidirectional_Learning_for_Domain_Adaptation_of_Semantic_Segmentation_CVPR_2019_paper.pdf) CVPR'19
 - [Adaptive Pyramid Context Network for Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Adaptive_Pyramid_Context_Network_for_Semantic_Segmentation_CVPR_2019_paper.pdf) CVPR'19
 ## Style Transfer
-
+- [Photorealistic Style Transfer via Wavelet Transforms](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yoo_Photorealistic_Style_Transfer_via_Wavelet_Transforms_ICCV_2019_paper.pdf) ICCV'19
+- [Content and Style Disentanglement for Artistic Style Transfer](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kotovenko_Content_and_Style_Disentanglement_for_Artistic_Style_Transfer_ICCV_2019_paper.pdf) ICCV'19
+- [Controllable Artistic Text Style Transfer via Shape-Matching GAN](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Controllable_Artistic_Text_Style_Transfer_via_Shape-Matching_GAN_ICCV_2019_paper.pdf) ICCV'19
 ## GAN
+- [Twin Auxilary Classifiers GAN](https://papers.nips.cc/paper/8414-twin-auxilary-classifiers-gan.pdf) NIPS'19
+- [Multi-marginal Wasserstein GAN](https://papers.nips.cc/paper/8454-multi-marginal-wasserstein-gan.pdf) NIPS'19
+- [PasteGAN: A Semi-Parametric Method to Generate Image from Scene Graph](https://papers.nips.cc/paper/8650-pastegan-a-semi-parametric-method-to-generate-image-from-scene-graph.pdf) NIPS'19
+- [Progressive Augmentation of GANs](https://papers.nips.cc/paper/8855-progressive-augmentation-of-gans.pdf) NIPS'19
 
 ## 3D Computer Vision
 - [] [FlowNet3D: Learning Scene Flow in 3D Point Clouds](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_FlowNet3D_Learning_Scene_Flow_in_3D_Point_Clouds_CVPR_2019_paper.pdf) CVPR'19
