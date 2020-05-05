@@ -31,4 +31,10 @@
 - [Progressive Augmentation of GANs](https://papers.nips.cc/paper/8855-progressive-augmentation-of-gans.pdf) NIPS'19
 
 ## 3D Computer Vision
-- [] [FlowNet3D: Learning Scene Flow in 3D Point Clouds](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_FlowNet3D_Learning_Scene_Flow_in_3D_Point_Clouds_CVPR_2019_paper.pdf) CVPR'19
+- [FlowNet3D: Learning Scene Flow in 3D Point Clouds](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_FlowNet3D_Learning_Scene_Flow_in_3D_Point_Clouds_CVPR_2019_paper.pdf) CVPR'19
+
+## Natural Language Processing
+- [A Robust Abstractive System for Cross-Lingual Summarization](https://www.aclweb.org/anthology/N19-1204) NAACL'19
+- [A Simple Joint Model for Improved Contextual Neural Lemmatization](https://www.aclweb.org/anthology/N19-1155) NAACL'19
+- [A Structural Probe for Finding Syntax in Word Representations](https://www.aclweb.org/anthology/N19-1419) NAACL'19
+- [Abusive Language Detection with Graph Convolutional Networks](https://arxiv.org/pdf/1904.04073) NAACL'19
