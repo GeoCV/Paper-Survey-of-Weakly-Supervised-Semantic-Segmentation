@@ -9,6 +9,9 @@
 - [Meta-Learning Convolutional Neural Architectures for Multi-Target Concrete Defect Classification With the COncrete DEfect BRidge IMage Dataset](http://openaccess.thecvf.com/content_CVPR_2019/papers/Mundt_Meta-Learning_Convolutional_Neural_Architectures_for_Multi-Target_Concrete_Defect_Classification_With_CVPR_2019_paper.pdf) CVPR'19
 - [Task Agnostic Meta-Learning for Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jamal_Task_Agnostic_Meta-Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf) CVPR'19
 ## Image/Video Super Resolution
+- [SROBB: Targeted Perceptual Loss for Single Image Super-Resolution](http://openaccess.thecvf.com/content_ICCV_2019/papers/Rad_SROBB_Targeted_Perceptual_Loss_for_Single_Image_Super-Resolution_ICCV_2019_paper.pdf) ICCV'19
+- [Toward Real-World Single Image Super-Resolution: A New Benchmark and a New Model](http://openaccess.thecvf.com/content_ICCV_2019/papers/Cai_Toward_Real-World_Single_Image_Super-Resolution_A_New_Benchmark_and_a_ICCV_2019_paper.pdf) ICCV'19
+- [Two-Stream Action Recognition-Oriented Video Super-Resolution](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Two-Stream_Action_Recognition-Oriented_Video_Super-Resolution_ICCV_2019_paper.pdf) ICCV'19
 ## Graph Neural Network
 - [AttPool: Towards Hierarchical Feature Representation in Graph Convolutional Networks via Attention Mechanism](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_AttPool_Towards_Hierarchical_Feature_Representation_in_Graph_Convolutional_Networks_via_ICCV_2019_paper.pdf) ICCV'19
 - [Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Symmetric_Graph_Convolutional_Autoencoder_for_Unsupervised_Graph_Representation_Learning_ICCV_2019_paper.pdf) ICCV'19
