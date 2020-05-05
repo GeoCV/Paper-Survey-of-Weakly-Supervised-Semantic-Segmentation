@@ -13,8 +13,13 @@
 - [Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Symmetric_Graph_Convolutional_Autoencoder_for_Unsupervised_Graph_Representation_Learning_ICCV_2019_paper.pdf) ICCV'19
 - [Bayesian Graph Convolution LSTM for Skeleton Based Action Recognition](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Bayesian_Graph_Convolution_LSTM_for_Skeleton_Based_Action_Recognition_ICCV_2019_paper.pdf) ICCV'19
 - [Graph Convolutional Networks for Temporal Action Localization](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_Graph_Convolutional_Networks_for_Temporal_Action_Localization_ICCV_2019_paper.pdf) ICCV'19
-## Semantic Segmentation
-
+## Semantic Segmentation & Domain Adaptation
+- [Knowledge Adaptation for Efficient Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Knowledge_Adaptation_for_Efficient_Semantic_Segmentation_CVPR_2019_paper.pdf) CVPR'19
+- [ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Vu_ADVENT_Adversarial_Entropy_Minimization_for_Domain_Adaptation_in_Semantic_Segmentation_CVPR_2019_paper.pdf) CVPR'19
+- [Structured Knowledge Distillation for Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Structured_Knowledge_Distillation_for_Semantic_Segmentation_CVPR_2019_paper.pdf) CVPR'19
+- [Box-Driven Class-Wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Song_Box-Driven_Class-Wise_Region_Masking_and_Filling_Rate_Guided_Loss_for_CVPR_2019_paper.pdf) CVPR'19
+- [Bidirectional Learning for Domain Adaptation of Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Bidirectional_Learning_for_Domain_Adaptation_of_Semantic_Segmentation_CVPR_2019_paper.pdf) CVPR'19
+- [Adaptive Pyramid Context Network for Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Adaptive_Pyramid_Context_Network_for_Semantic_Segmentation_CVPR_2019_paper.pdf) CVPR'19
 ## Style Transfer
 
 ## GAN
