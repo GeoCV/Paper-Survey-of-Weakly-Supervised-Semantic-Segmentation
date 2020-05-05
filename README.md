@@ -8,6 +8,7 @@
 - [Meta-Learning With Differentiable Convex Optimization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Meta-Learning_With_Differentiable_Convex_Optimization_CVPR_2019_paper.pdf) CVPR'19
 - [Meta-Learning Convolutional Neural Architectures for Multi-Target Concrete Defect Classification With the COncrete DEfect BRidge IMage Dataset](http://openaccess.thecvf.com/content_CVPR_2019/papers/Mundt_Meta-Learning_Convolutional_Neural_Architectures_for_Multi-Target_Concrete_Defect_Classification_With_CVPR_2019_paper.pdf) CVPR'19
 - [Task Agnostic Meta-Learning for Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jamal_Task_Agnostic_Meta-Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf) CVPR'19
+- [Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation](https://arxiv.org/pdf/2001.08735) ICLR'2020
 ## Image/Video Super Resolution
 - [SROBB: Targeted Perceptual Loss for Single Image Super-Resolution](http://openaccess.thecvf.com/content_ICCV_2019/papers/Rad_SROBB_Targeted_Perceptual_Loss_for_Single_Image_Super-Resolution_ICCV_2019_paper.pdf) ICCV'19
 - [Toward Real-World Single Image Super-Resolution: A New Benchmark and a New Model](http://openaccess.thecvf.com/content_ICCV_2019/papers/Cai_Toward_Real-World_Single_Image_Super-Resolution_A_New_Benchmark_and_a_ICCV_2019_paper.pdf) ICCV'19
@@ -24,6 +25,7 @@
 - [Box-Driven Class-Wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Song_Box-Driven_Class-Wise_Region_Masking_and_Filling_Rate_Guided_Loss_for_CVPR_2019_paper.pdf) CVPR'19
 - [Bidirectional Learning for Domain Adaptation of Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Bidirectional_Learning_for_Domain_Adaptation_of_Semantic_Segmentation_CVPR_2019_paper.pdf) CVPR'19
 - [Adaptive Pyramid Context Network for Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Adaptive_Pyramid_Context_Network_for_Semantic_Segmentation_CVPR_2019_paper.pdf) CVPR'19
+- [BiSeNet V2: Bilateral Network with Guided Aggregation for Real-time Semantic Segmentation](https://arxiv.org/pdf/2004.02147) arxiv
 ## Style Transfer
 - [Photorealistic Style Transfer via Wavelet Transforms](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yoo_Photorealistic_Style_Transfer_via_Wavelet_Transforms_ICCV_2019_paper.pdf) ICCV'19
 - [Content and Style Disentanglement for Artistic Style Transfer](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kotovenko_Content_and_Style_Disentanglement_for_Artistic_Style_Transfer_ICCV_2019_paper.pdf) ICCV'19
@@ -43,6 +45,7 @@
 - [Preventing Gradient Attenuation in Lipschitz Constrained Convolutional Networks](https://papers.nips.cc/paper/9673-preventing-gradient-attenuation-in-lipschitz-constrained-convolutional-networks.pdf) NIPS'19
 - [Fully Learnable Group Convolution for Acceleration of Deep Neural Networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Fully_Learnable_Group_Convolution_for_Acceleration_of_Deep_Neural_Networks_CVPR_2019_paper.pdf) CVPR'19
 - [Kernel Transformer Networks for Compact Spherical Convolution](http://openaccess.thecvf.com/content_CVPR_2019/papers/Su_Kernel_Transformer_Networks_for_Compact_Spherical_Convolution_CVPR_2019_paper.pdf) CVPR'19
+- [Pixel-Adaptive Convolutional Neural Networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Su_Pixel-Adaptive_Convolutional_Neural_Networks_CVPR_2019_paper.pdf) CVPR'19
 
 ## Natural Language Processing
 - [A Robust Abstractive System for Cross-Lingual Summarization](https://www.aclweb.org/anthology/N19-1204) NAACL'19
