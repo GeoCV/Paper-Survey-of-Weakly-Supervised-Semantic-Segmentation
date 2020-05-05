@@ -8,6 +8,7 @@
 - [Meta-Learning With Differentiable Convex Optimization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Meta-Learning_With_Differentiable_Convex_Optimization_CVPR_2019_paper.pdf) CVPR'19
 - [Meta-Learning Convolutional Neural Architectures for Multi-Target Concrete Defect Classification With the COncrete DEfect BRidge IMage Dataset](http://openaccess.thecvf.com/content_CVPR_2019/papers/Mundt_Meta-Learning_Convolutional_Neural_Architectures_for_Multi-Target_Concrete_Defect_Classification_With_CVPR_2019_paper.pdf) CVPR'19
 - [Task Agnostic Meta-Learning for Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jamal_Task_Agnostic_Meta-Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf) CVPR'19
+## Image/Video Super Resolution
 ## Graph Neural Network
 - [AttPool: Towards Hierarchical Feature Representation in Graph Convolutional Networks via Attention Mechanism](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_AttPool_Towards_Hierarchical_Feature_Representation_in_Graph_Convolutional_Networks_via_ICCV_2019_paper.pdf) ICCV'19
 - [Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Symmetric_Graph_Convolutional_Autoencoder_for_Unsupervised_Graph_Representation_Learning_ICCV_2019_paper.pdf) ICCV'19
@@ -32,6 +33,13 @@
 
 ## 3D Computer Vision
 - [FlowNet3D: Learning Scene Flow in 3D Point Clouds](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_FlowNet3D_Learning_Scene_Flow_in_3D_Point_Clouds_CVPR_2019_paper.pdf) CVPR'19
+- [3D Human Pose Estimation in Video With Temporal Convolutions and Semi-Supervised Training](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pavllo_3D_Human_Pose_Estimation_in_Video_With_Temporal_Convolutions_and_CVPR_2019_paper.pdf) CVPR'19
+## CNN
+- [Tight Sample Complexity of Learning One-hidden-layer Convolutional Neural Networks](https://papers.nips.cc/paper/9246-tight-sample-complexity-of-learning-one-hidden-layer-convolutional-neural-networks.pdf) NIPS'19
+- [Gaussian-Based Pooling for Convolutional Neural Networks](https://papers.nips.cc/paper/9300-gaussian-based-pooling-for-convolutional-neural-networks.pdf) NIPS'19
+- [Preventing Gradient Attenuation in Lipschitz Constrained Convolutional Networks](https://papers.nips.cc/paper/9673-preventing-gradient-attenuation-in-lipschitz-constrained-convolutional-networks.pdf) NIPS'19
+- [Fully Learnable Group Convolution for Acceleration of Deep Neural Networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Fully_Learnable_Group_Convolution_for_Acceleration_of_Deep_Neural_Networks_CVPR_2019_paper.pdf) CVPR'19
+- [Kernel Transformer Networks for Compact Spherical Convolution](http://openaccess.thecvf.com/content_CVPR_2019/papers/Su_Kernel_Transformer_Networks_for_Compact_Spherical_Convolution_CVPR_2019_paper.pdf) CVPR'19
 
 ## Natural Language Processing
 - [A Robust Abstractive System for Cross-Lingual Summarization](https://www.aclweb.org/anthology/N19-1204) NAACL'19
