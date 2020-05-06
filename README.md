@@ -52,3 +52,15 @@
 - [A Simple Joint Model for Improved Contextual Neural Lemmatization](https://www.aclweb.org/anthology/N19-1155) NAACL'19
 - [A Structural Probe for Finding Syntax in Word Representations](https://www.aclweb.org/anthology/N19-1419) NAACL'19
 - [Abusive Language Detection with Graph Convolutional Networks](https://arxiv.org/pdf/1904.04073) NAACL'19
+
+## Reinforcement Learning
+
+- [Never Give Up: Learning Directed Exploration Strategies](https://arxiv.org/pdf/2002.06038.pdf) ICLR 2020
+- [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/pdf/1912.01603.pdf) ICLR 2020
+- [Recurrent Experience Replay in Distributed Reinforcement Learning](https://openreview.net/pdf?id=r1lyTjAqYX) ICLR 2019
+- [Information-Directed Exploration for Deep Reinforcement Learning](https://arxiv.org/pdf/1812.07544.pdf) ICLR 2019
+- [Addressing Function Approximation Error in Actor-Critic Methods](https://arxiv.org/pdf/1802.09477.pdf) ICML 2018
+- [Distributed Distributional Deterministic Policy Gradients](https://arxiv.org/pdf/1804.08617.pdf) ICML 2018
+- [IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://arxiv.org/pdf/1802.01561.pdf) ICML 2018
+- [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/pdf/1801.01290.pdf) ICML 2018
+- [Population Based Training of Neural Networks](https://arxiv.org/pdf/1711.09846.pdf) 2017
